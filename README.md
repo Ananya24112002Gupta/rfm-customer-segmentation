@@ -25,9 +25,13 @@ Python, Pandas, Seaborn, Matplotlib
 ## Files
 - `rfm_analysis.ipynb` — full analysis notebook
 - `rfm_segmentation_output.csv` — final segmented customer data
-- `bar chart.png`, `heatmap.png`, `line chart.png`, `dot chart.png` — visualizations
+- `bar chart.png`, `heatmap.png`, `line chart.png`, `scatter_frequency_vs_monetary.png` — visualizations
+
+## Charts
 
 ## Charts
 
 ![Segment Distribution](bar%20chart.png)
 ![RFM Heatmap](heatmap.png)
+![Monthly Revenue Trend](line%20chart.png)
+![Frequency vs Monetary by Segment](scatter_frequency_vs_monetary.png)
