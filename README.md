@@ -23,7 +23,7 @@ Python, Pandas, Seaborn, Matplotlib
   making them the priority group for retention campaigns
 
 ## Files
-- `Untitled1.ipynb` — full analysis notebook
+- `rfm_analysis.ipynb` — full analysis notebook
 - `rfm_segmentation_output.csv` — final segmented customer data
 - `bar chart.png`, `heatmap.png`, `line chart.png`, `dot chart.png` — visualizations
 
